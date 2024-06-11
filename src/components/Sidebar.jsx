@@ -8,7 +8,7 @@ function Sidebar() {
               <li className="p-9">SECTOR</li>
               <li className="p-9">TOPICS</li>
               <li className="p-9">REGION</li> 
-              <li className="p-9">PEST</li>
+              <li className="p-9">PESTc</li>
               <li className="p-9">SOURCE</li>
               <li className="p-9">SWOT</li>
               <li className="p-9">COUNTRY</li>
